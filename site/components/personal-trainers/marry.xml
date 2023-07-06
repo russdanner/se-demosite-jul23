@@ -11,7 +11,7 @@
   <trainerDescription_t>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet, wisi risus purus augue vulputate.</trainerDescription_t>
   <file-name>marry.xml</file-name>
   <folder-name/>
-  <trainerImage_s><![CDATA[/static-assets/images/blog-header-bg.jpg]]></trainerImage_s>
+  <trainerImage_s><![CDATA[/static-assets/images/comment1.jpg]]></trainerImage_s>
   <socialMediaLinks_o>
     <item>
       <url_s>http://www.facebook.com</url_s>
@@ -25,5 +25,5 @@
   <createdDate>2017-05-11T17:38:46.000Z</createdDate>
   <createdDate_dt>2017-05-11T17:38:46.000Z</createdDate_dt>
   <lastModifiedDate>2017-05-11T17:38:46.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-06T11:39:51.272Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-06T11:40:28.012Z</lastModifiedDate_dt>
 </component>
